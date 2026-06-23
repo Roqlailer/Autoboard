@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import {
   ActivityIndicator,
   Alert,
-  FlatList,
+  FlatList, 
   Modal,
   Platform,
   SafeAreaView,
